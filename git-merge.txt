@@ -1,0 +1,5 @@
+git remote add origin git://github.com/ling910520/html-css-repository.git
+https://github.com/ling910520/html-css-repository.git
+
+
+git merge origin master 
