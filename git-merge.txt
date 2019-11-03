@@ -5,3 +5,7 @@ https://github.com/ling910520/html-css-repository.git
 git merge origin master 
 
 now i am in branch iss533
+
+
+git checkout -b "branchname"
+git merge master hotfix
