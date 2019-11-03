@@ -4,8 +4,16 @@ https://github.com/ling910520/html-css-repository.git
 
 git merge origin master 
 
+<<<<<<< HEAD
 
 git checkout -b iss 533
 
 
 now i am in hotfix
+=======
+now i am in branch iss533
+
+
+git checkout -b "branchname"
+git merge master hotfix
+>>>>>>> iss533
